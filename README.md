@@ -24,8 +24,6 @@ From `/api/products/`
   ```json
   {
     "name": "Product Name",
-    "description": "Product Description",
-    "price": 10.99,
     "quantity": 100
   }
   ```
